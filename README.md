@@ -1,2 +1,3 @@
 # TextminingR
-Textmining using R and WordCloud
+Textmining using R and WordCloud.
+
